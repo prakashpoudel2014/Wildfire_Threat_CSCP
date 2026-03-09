@@ -75,7 +75,7 @@ These functions provide alternative policies for assigning sensors to new measur
 - `fig_edit.m`  
   Figure editing / export utility.
 
-- `POD_model_50`  
+- `POD_model_10`  
   POD model data used by reduced-order estimation methods.
 
 - `checkpoint_epoch_090`  
