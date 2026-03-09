@@ -1,6 +1,7 @@
 SOFTWARE LICENSE
 ----------------
 Copyright (c) 2026 by
+    Prakash Poudel
     Jeffrey DesRoches
     Raghvendra Cowlagi
 
